@@ -1,15 +1,24 @@
-### Apollo STARS
-CS-353 Database Project
-Spring 2019
+# apollo
 
-### Group Members
-    Hanzallah Azim Burney         
-    Abdul Hamid Dabboussi               
-    Perman Atayev   
-    Balaj Saleeem            
+## Project setup
+```
+npm install
+```
 
-### Course Instructor
-Ugur Gudukbay
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-### Project Website
-[Apollo Stars v1.0](http://hanzallah.github.io)
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
