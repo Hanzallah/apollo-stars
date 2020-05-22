@@ -1,4 +1,4 @@
-# apollo
+# Apollo Stars
 
 ## Project setup
 ```
